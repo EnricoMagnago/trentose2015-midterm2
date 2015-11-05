@@ -52,6 +52,10 @@ h1 > span{
   color: brown;
 }
 
+.hidden{
+    display: none;
+}
+
 .jumbotron {
   min-height: 300px;
   text-align: center;  
